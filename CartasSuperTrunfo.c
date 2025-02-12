@@ -94,7 +94,6 @@ int main() {
     printf("- Número de pontos turísticos da cidade: %d \n", num_pontos_turisticos_A > num_pontos_turisticos_B);
     printf("- Densidade populacional: %d \n", densidade_populacional_A < densidade_populacional_B);
     printf("- PIB per capita: %d \n", PIB_per_capita_A > PIB_per_capita_B);
-    printf("- PIB per capita: %d, %d \n", PIB_per_capita_A, PIB_per_capita_B);
     printf("- Super poder: %d \n\n", superpoder_A > superpoder_B);
 
     // Finalizando programa
